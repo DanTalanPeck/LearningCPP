@@ -1,2 +1,2 @@
-# Learning-C-
+# Learning C++
 Solutions for C++ problems 
